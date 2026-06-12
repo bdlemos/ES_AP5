@@ -8,4 +8,3 @@ build/
 .coverage
 htmlcov/
 .pytest_cache/
-make_commits.sh
